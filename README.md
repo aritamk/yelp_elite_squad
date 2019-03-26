@@ -1,7 +1,7 @@
 Yelp Elite
 ==========
 
- 
+Languages: Python, with Keras/TensorFlow
 
 Some background:
 ----------------
